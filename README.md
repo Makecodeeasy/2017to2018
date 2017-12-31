@@ -4,7 +4,7 @@
 
 2017年还有半个多小时就要成为过去，回想这一年，发生了很多事，经历了很多。总结一下: 思索，假设，目标，学习，痛苦，努力，找寻，起点，奔波，消极，领悟，陪伴。
 2017不完美，有太多的事情没有去做，比如旅游，运动，看书。
-但，2017即将成为过去，Now I want say, goodbye 2017. And 2018 I'm coming!
+但，2017即将成为过去，Now I want to say, goodbye 2017. And 2018 I'm coming!
 
 2018新年目标与愿望
 1, 提升python代码能力， 巩固Linux基础，继续学习运维常用工具，技术(saltstack，consul，nginx，mysql，redis...)
